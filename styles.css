@@ -1,0 +1,139 @@
+body {
+    font-family: system-ui;
+    }
+    .box {
+    width: 420px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+    }
+    .box-img {
+    width: 100%;
+    border-radius: 10px;
+    margin: none;
+    }
+    .image {
+    position: relative;
+    }
+    .btn1 {
+    border: none;
+    background-color: royalblue;
+    color: white;
+    border-radius: 2px;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    }
+    .btn2 {
+    border: none;
+    background-color: rgba(239, 239, 239, 0.389);
+    border-radius: 4px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    }
+    .btn3 {
+    border: none;
+    color: gray;
+    background-color: rgba(168, 166, 166, 0.389);
+    border-radius: 4px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    }
+    .title {
+    margin: 4px;
+    font-weight: 500;
+    }
+    .subtitle {
+    color: grey;
+    margin: 7px;
+    }
+    .divider {
+    margin-top: 20px;
+    border-top: none;
+    border-bottom-color: lightgray;
+    }
+    .lower {
+    position: relative;
+    }
+    .lower-img {
+    width: 20%;
+    }
+    .lower-text {
+    color: gray;
+    width: 75%;
+    position: absolute;
+    left: 90px;
+    } 
+    .box2{
+        width: 600px;
+        border-radius: 10px;
+        position: relative;
+        }
+        .box-img2{
+        width: 100%;
+        border-radius: 10px;
+        }
+        .text2
+        {
+        color: white;
+        position: absolute;
+        top: 130px;
+        text-align: center;
+        }
+        .btnn
+        {
+        border: none;
+        background-color: rgb(112, 107, 107);
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-weight: bold;
+        } 
+        .box3{
+            width: 600px;
+            border-radius: 10px;
+            position: relative;
+            }
+            .box-img3{
+            width: 100%;
+            border-radius: 10px;
+            }
+            .text3
+            {
+            color: white;
+            position: absolute;
+            top: 60px;
+            left:220px;
+text-align: center;
+}
+.text4
+{
+color: white;
+position: absolute;
+bottom: 80px;
+left:80px;
+text-align: center;
+}
+.title
+{
+font-size: 40px;
+margin-bottom: 0px;
+}
+.bt
+{
+width: 400px;
+border: none;
+background-color: white;
+border-radius: 2px;
+padding: 10px 20px;
+font-weight: bold;
+}
+.bt-img
+{
+width:100%;
+}
+.display{
+    padding:80px;
+}
+            
